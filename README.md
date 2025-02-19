@@ -31,7 +31,7 @@ Set Up Git and Github:
 
 **GitHub**: A website where developers store, share, and manage their Git projects.
 
-**Merge**: a git command that combines changes from one branch into another, usually into the main branch.
+**Merge**: A git command that combines changes from one branch into another, usually into the main branch.
 
 **Merge Conflict**: When Git can’t automatically merge changes, so you need to fix them manually.
 
