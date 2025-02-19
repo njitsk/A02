@@ -6,6 +6,12 @@
 Set Up Git and Github:
 - Sign up at GitHub if you don’t have an account [Github](https://git-scm.com/download/win)
 
+**Using Git and Github** 
+
+Sign up for **GitHub**, log in, and create a new repository. Name it, add a description, and make it public. Add a README file, create or edit files, then commit your changes with a message. To create new branches, click Branches and add one. Use Pull Requests to merge branches. Finally, go to Settings > Pages, choose a branch, and click Save to get a link to share your project.
+
+Install **Git** on your computer and check if it’s set up by typing "git version" in the terminal. If not, download and install it. Set up your Git username and email by using the commands "git config --global user.name 'yourname'" and "git config --global user.email 'qwerty@njit.edu'". Create a GitHub account, then link Git with GitHub by authenticating your email and password. You can now commit, push, and pull changes to your repository.
+
 **Install Webstorm**
  - Download and install [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows)
  - Follow installation prompts
